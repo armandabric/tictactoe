@@ -1,0 +1,29 @@
+/**
+ * Palette:
+ * - #C73E49
+ * - #F8F8F3
+ * - #2467C0
+ * - #114887
+ * - #163B63
+ */
+
+html,
+body {
+  background-color: #f8f8f3;
+}
+
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
